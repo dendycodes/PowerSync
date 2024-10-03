@@ -4,6 +4,7 @@ colorama==0.4.6
 idna==3.10
 paho-mqtt==2.1.0
 pycryptodome==3.21.0
+python-dotenv==1.0.1
 requests==2.32.3
 tuya-connector-python==0.1.2
 tuya-iot-py-sdk==0.6.6
