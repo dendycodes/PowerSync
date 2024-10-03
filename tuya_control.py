@@ -28,11 +28,13 @@ def intro():
           
       ╔══════════════════════════════════════╗
       ║                                      ║
-      ║         D E N D Y  C O D E S         ║
+      ║          P O W E R  S Y N C          ║
+      ║                                      ║
+      ║        Powered by: dendycodes        ║
       ║                                      ║
       ╚══════════════════════════════════════╝
     """ + Style.RESET_ALL)
-    print(Fore.GREEN + ">> Welcome to Dendys Console <<" + Style.RESET_ALL)
+    print(Fore.GREEN + ">> Welcome to PowerSync <<" + Style.RESET_ALL)
 
 # Command to toggle the device ON or OFF
 def toggle_device(turn_on):
