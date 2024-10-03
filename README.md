@@ -30,7 +30,7 @@ PowerSync is a sleek, tech-forward application that gives you **command over you
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/powersync.git
+   git clone git@github.com:dendycodes/PowerSync.git
    cd powersync
    ```
 
