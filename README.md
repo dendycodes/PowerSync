@@ -9,10 +9,11 @@ PowerSync is a sleek, tech-forward application that gives you **command over you
 ### Currently Available:
 * 🕹️ **Smart Lighting Control**: Turn your smart lights on/off with simple commands.
 * 💻 **Command Line Interface (CLI)**: Get a hacker-style interactive experience while controlling your devices.
-* 🔐 **Environment-Based Credentials**: Securely load your API keys, device IDs, and credentials from an `.env`file.
+* 🔐 **Environment-Based Credentials**: Securely load your API keys and credentials from an `.env`file.
+* 🖥️ **Device Dashboard**: Monitor and control multiple devices from a centralized dashboard.
+
 
 ### Coming Soon:
-* 🖥️ **Device Dashboard**: Monitor and control multiple devices from a centralized dashboard.
 * 🛠️ **Custom Commands**: Send specific commands to your devices (e.g., adjust brightness, set timers, switch modes).
 * 🌐 **Multi-Device Support**: Manage groups of devices and synchronize actions across them.
 * ⏰ **Automation & Scheduling**: Set up schedules to automate actions like turning lights on/off at specific times.
