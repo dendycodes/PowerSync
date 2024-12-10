@@ -52,7 +52,6 @@ PowerSync is a sleek, tech-forward application that gives you **command over you
    ENDPOINT=https://openapi.tuyaus.com
    ACCESS_ID=your_access_id
    ACCESS_KEY=your_access_key
-   DEVICE_ID=your_device_id
    ```
 
 5. **Run PowerSync**:
